@@ -6,7 +6,7 @@ The code demonstrates agregation of Logs into a single file with ability to run 
 
 ### Requirements to build solution
  
- - [JDK 11 and above](http://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-2133151.html)
+ - [JDK 11](http://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-2133151.html). JDK 11 has been 		used as compiler but the project should compile on JDK 8 as well. 
  - [Maven 3](https://maven.apache.org) 
  
 
